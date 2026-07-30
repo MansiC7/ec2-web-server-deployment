@@ -74,7 +74,12 @@ HTML / CSS / JavaScript Files
 ## Outcome
 
 Successfully deployed a static website on an AWS EC2 Ubuntu server using Nginx.
-=======
+
 # ec2-web-server-deployment
 Deployed a Linux web server on AWS EC2 using Ubuntu and Nginx with custom security group configuration.
->>>>>>> e4818fc297963fca6b52c8c74b0f5fadffb7aff3
+
+## Live Website
+
+Website deployed using AWS EC2:
+
+http://16.171.6.134
